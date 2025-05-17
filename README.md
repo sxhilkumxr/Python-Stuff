@@ -1,2 +1,2 @@
 # Python-Stuff
-# LEARNING
+LEARNING PYTHON
